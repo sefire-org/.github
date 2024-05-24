@@ -29,7 +29,12 @@ We plan to first impact Singapore, ASEAN and then the world through our suite of
 - **Fractional CTO:** [Explain how you engage with your community or target audience]
 - **Vendored Work:** [Mention any sustainability or environmental initiatives]
 
-### 🚀 Get Involved
+### 🔥 What Drives Us
+- Our team loves coffee ☕☕☕☕☕ 
+- We believe that good work sells
+- We work hard to create a future of software development in Singapore, ASEAN & Beyond
+
+### 🧙 Get Involved
 We welcome contributions from the community! Here’s how you can get involved:
 - **Report Issues:** Found a bug? [Link to your issues page]
 - **Submit Pull Requests:** Check out our [contribution guidelines] to get started.
@@ -39,11 +44,6 @@ We welcome contributions from the community! Here’s how you can get involved:
 - **Documentation:** [Link to your docs]
 - **Tutorials:** [Link to tutorials or getting started guides]
 - **FAQ:** [Link to FAQ section]
-
-### 🔥 What Drives Us
-- Our team loves coffee ☕☕☕☕☕ 
-- We believe that good work sells
-- We work hard to create the future of the Software Development Space in Singapore, ASEAN & Beyond
 
 ### 🧙 Join Us
 We are always looking for eager-beavers to join us! [Email Us Today!](mailto:origin@sefire.org)
