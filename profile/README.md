@@ -1,8 +1,4 @@
----
-
 # SEFIRE
-
-[SEFIRELogo](https://github.com/sefire-octopi/.github/assets/65051094/9b7b3f99-0124-4075-aa7f-3c7e590351d7)
 
 ## Hi there 👋
 
@@ -33,7 +29,3 @@ We welcome contributions from the community! Here’s how you can get involved:
 
 ### 🧙 Join Us
 Remember, you can do mighty things with the power of community and collaboration. We’re thrilled to have you as part of SEFIRE!
-
----
-
-Feel free to edit and customize this template further to fit your organization's specific needs and personality. If you provide the exact path or name you'd like for the logo, I'll update the placeholder accordingly.
