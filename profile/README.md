@@ -5,7 +5,7 @@
 Welcome to SEFIRE, an organization dedicated to making technology for everyone. We're excited to have you here!
 
 ### 🌟 Our Mission
-At SEFIRE, we strive to make products that everyone would find useful in their daily lives! We plan to impact ASEAN through our suite of products!
+At SEFIRE, we strive to make products that everyone would find useful in their daily lives! We plan to first impact Singapore, ASEAN and then the world through our suite of products!
 
 ### 🔥 What We Do
 - **Innovation:** [Describe your innovative projects or areas of research]
