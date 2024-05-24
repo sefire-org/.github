@@ -16,7 +16,7 @@ We're excited to have you here! <br>
 🐙🐙🐙🐙**P**roduct <br>
 🐙🐙🐙🐙🐙**I**ncubation <br>
 
-SEFIRE-OCTOPI is a segment of the SEFIRE business, where we try to make products that we are really passionate about!
+SEFIRE-OCTOPI is a segment of the SEFIRE business, where we try make and develope our own products, based on stuff we are really passionate about!
 
 ### 🚀 Our Mission
 At SEFIRE, we strive to make products that everyone would find useful in their daily lives.
