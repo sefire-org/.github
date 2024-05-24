@@ -1,8 +1,22 @@
-# SEFIRE
+# Hi there 👋
 
-## Hi there 👋
+Thanks for checking SEFIRE Out! 
+Welcome to SEFIRE, a Singaporean organization dedicated to making technology for everyone. We're excited to have you here! 
 
-Welcome to SEFIRE, an organization dedicated to making technology for everyone. We're excited to have you here!
+## **💎SEFIRE💎** 
+### ***S***oftwar***E*** 
+### ***F***oundry, 
+### ***I***ncubator & 
+### ***E***cosystem 
+
+## **🐙OCTOPI🐙**
+### ***O***riginal 
+### ***C***ode 
+### ***TO*** 
+### ***P***roduct 
+### ***I***ncubation 
+
+SEFIRE-OCTOPI is a segement of the SEFIRE business, where we try to make products that we are really passionate about!
 
 ### 🌟 Our Mission
 At SEFIRE, we strive to make products that everyone would find useful in their daily lives! We plan to first impact Singapore, ASEAN and then the world through our suite of products!
