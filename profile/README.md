@@ -1,7 +1,9 @@
 # Hi there 👋
 
 Thanks for checking SEFIRE Out! 
-Welcome to SEFIRE, a Singaporean organization dedicated to making technology for everyone. We're excited to have you here! 
+Welcome to SEFIRE! 
+SEFIRE is an organization founder in Singapore, dedicated to making technology for everyone. 
+We're excited to have you here! 
 
 ## **💎SEFIRE💎** 
 #### *S*oftwar*E* 
