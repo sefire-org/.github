@@ -45,5 +45,5 @@ We welcome contributions from the community! Here’s how you can get involved:
 - **Tutorials:** [Link to tutorials or getting started guides]
 - **FAQ:** [Link to FAQ section]
 
-### 🧙 Join Us
+### 🌟🤗🌟 Join Us
 We are always looking for eager-beavers to join us! [Email Us Today!](mailto:origin@sefire.org)
