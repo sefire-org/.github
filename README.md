@@ -75,7 +75,7 @@ RFCs ensure everyone can contribute to technical direction, and that decisions a
 
 | Challenge                                           | Mitigation Strategy                                                                 |
 |----------------------------------------------------|--------------------------------------------------------------------------------------|
-| Lack of clear authority or escalation paths        |**Escalation Flow**: Contributor → Team Lead → Tech Council → CTO/Exec (if needed). Team leads are the first line of issue triage. If unresolved at that level, they escalate directly to the Tech Council, who either resolve or pass critical cases to the CTO. This keeps the decision chain short and focused.|
+| Lack of clear authority or escalation paths        |Contributor → Team Lead → Tech Council. There are two meetings: in the first, the Team Lead assesses the issue and either proposes a fix or determines it must be escalated. The issue is logged on a shared board. In the second meeting, the Tech Council discusses escalated items and takes action. If the Team Lead misses an issue, the Tech Council can follow up directly via the shared board. This ensures a clear, two-touch process with accountability built-in.|
 | Risk of duplicated efforts across teams            | Maintain a graph registry of team ownership + internal project index                |
 | Overhead in consensus-building (too democratic)    | Time-boxed RFC reviews; default to lazy consensus unless objections are raised      |
 | Onboarding difficulty due to decentralized info    | Developer portal with discoverable ownership, docs, APIs, and contribution guides   |
