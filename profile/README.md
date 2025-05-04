@@ -27,6 +27,7 @@ we move fast and think deep.We reward courage, curiosity, and clean code — not
 | 🛠️ Vendored Work       | We occasionally take on client projects we believe in. Always with craft. |
 | 🌍 Open Source       | We ship things we believe in, and invite you to shape them too |
 
+> 💬 “We don’t solve solved problems. We build terrifyingly good tools.”
 
 ## 🧩 How You Can Contribute
 We love working with curious minds. Join us by:
@@ -40,8 +41,6 @@ We love working with curious minds. Join us by:
 - 🧪 Tutorials
 - ❓ FAQs
 - 🔍 Projects
-
-> 💬 “We don’t solve solved problems. We build terrifyingly good tools.”
 
 ⚡ Let's change the world
 > _A very small man can cast a very large shadow_ 
