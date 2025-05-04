@@ -17,9 +17,9 @@ To create accessible tools that empower people in their daily lives — starting
 Reimagine what a small, bold team can do when creativity, cross-discipline thinking, and dogged execution collide.
 
 ## 🧙‍♂️ Culture
-we move fast and think deep.We reward courage, curiosity, and clean code — not consensus.
+At Sefire, we move fast, think deep, and build with grit. We reward curiosity, creativity, clean code — and kindness.
 
-## 💼 What We Do
+## 💼 Out Work
 | Category           | Description |
 |--------------------|-------------|
 | 🧪 Product Incubation | We build, test, and refine our own original software ideas — across web, cloud, and AI. |
