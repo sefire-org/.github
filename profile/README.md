@@ -19,7 +19,7 @@ Reimagine what a small, bold team can do when creativity, cross-discipline think
 ## 🧙‍♂️ Culture
 At Sefire, we move fast, think deep, and build with grit. We reward curiosity, creativity, clean code — and kindness.
 
-## 💼 Out Work
+## 💼 Our Work
 | Category           | Description |
 |--------------------|-------------|
 | 🧪 Product Incubation | We build, test, and refine our own original software ideas — across web, cloud, and AI. |
